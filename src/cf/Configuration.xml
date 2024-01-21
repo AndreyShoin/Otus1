@@ -230,6 +230,7 @@
 			<Catalog>Авторы</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>Договоры</Catalog>
+			<Catalog>Справочник1</Catalog>
 			<Enum>ВидТовара</Enum>
 			<Enum>ВидЕдиницИзмерения</Enum>
 			<Report>Отчет1</Report>
